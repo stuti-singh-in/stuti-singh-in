@@ -1,8 +1,7 @@
-<div align="center">
+
   ![image](https://github.com/stuti-singh-in/stuti-singh-in/assets/121602275/1181f2e3-72c6-4ab2-9e53-16510af1979a)
 
 
-</div>
 
 ###
 
