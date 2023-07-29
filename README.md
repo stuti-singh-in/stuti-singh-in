@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![image](https://github.com/stuti-singh-in/stuti-singh-in/assets/121602275/6ba84e79-c046-4e9a-904a-d92c23ac0423)"
+  <img height="150" src="https://github.com/stuti-singh-in/stuti-singh-in/blob/main/giphy-backdrop.mp4"
  height="1500"  width="400" />
 </div>
 
