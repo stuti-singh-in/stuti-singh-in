@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="![image](https://github.com/stuti-singh-in/stuti-singh-in/assets/121602275/701e3e88-3a75-4956-8aa2-4f180de0996f)
+  <img height="150" src="![image](https://github.com/stuti-singh-in/stuti-singh-in/assets/121602275/1181f2e3-72c6-4ab2-9e53-16510af1979a)"
+
 "
  height="1500"  width="400" />
 </div>
