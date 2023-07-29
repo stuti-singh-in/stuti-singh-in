@@ -28,7 +28,7 @@
 ### About Me
 <details>
   <summary> Bio </summary>
-    <p align="left"> Hi, I'm Stuti and I grew up travelling places - India, UK, France and Scotland.  I,m a freelance Software Engineer and Budding Entrepreneur. Before this, I was pursuing my M.S. in Computer Science at AGC - Pune University, India. I recieved my B.S. in Computer Science from Christ College - Pune University, India and developed my enthusiasm for software engineering during that time <br><br>🌱 Being fascinated by remarkable software practices and engineering excellence, I always believe in following good coding conventions.<br><br>📫 How to reach me aasthaagarwal2121@gmail.com</p>
+    <p align="left"> Hi, I'm Stuti and I grew up travelling places - India, UK, France and Scotland.  I,m a freelance Software Engineer and Budding Entrepreneur. Before this, I was pursuing my M.S. in Computer Science at AGC - Pune University, India. I recieved my B.S. in Computer Science from Christ College - Pune University, India and developed my enthusiasm for software engineering during that time <br><br>🌱 Being fascinated by remarkable software practices and engineering excellence, I always believe in following good coding conventions.</p>
   
 </details>
 <details>
