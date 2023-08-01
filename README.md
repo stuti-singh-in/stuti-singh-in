@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hi all. I'm Stuti Singh, a Software Engineer</h1>
+<h1 align="center">Hi all. I'm Stuti Singh, an upcoming SDE</h1>
 
 
 ### About Me
