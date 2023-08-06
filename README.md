@@ -1,9 +1,7 @@
 
-<h3 align="left">🔥   Github Stats :</h3>
-###
-<div align="center">
-<img src="![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stuti-singh-in&show_icons=true)"/>
-</div>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stuti-singh-in&show_icons=true)
+
 ###
 
 ##  Most Used Languages
@@ -11,6 +9,10 @@
 
 ## Contributors Badge
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=stuti-singh-in/Vedic)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=stuti-singh-in/C4GT)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=stuti-singh-in/indicnlp_catalog)
+
+
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
