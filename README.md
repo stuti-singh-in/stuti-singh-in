@@ -1,7 +1,7 @@
 
   ![image](https://github.com/stuti-singh-in/stuti-singh-in/assets/121602275/1181f2e3-72c6-4ab2-9e53-16510af1979a)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stuti-singh-in_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stuti-singh-in&show_icons=true)
 
 
 ###
