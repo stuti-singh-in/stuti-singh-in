@@ -20,11 +20,14 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=stuti-singh-in)
 
-### About Me
 
-   ## Bio 
-    <p align="left"> Hi, I'm Stuti and I grew up travelling places - India, UK, France and Scotland.  I'm a freelance Software Engineer and Budding Entrepreneur. Before this, I was pursuing my M.S. in Computer Science at AGC - Pune University, India. I recieved my B.S. in Computer Science from Christ College - Pune University, India and developed my enthusiasm for software engineering during that time <br><br> Being fascinated by remarkable software practices and engineering excellence, I always believe in following good coding conventions.
-    <br><br> Reach me out at mail - singhstuti232@gmail.com or linkedin - @stuti-singh067</p>
+
+## Bio 
+Hi, I'm Stuti and I grew up travelling places - India, UK, France and Scotland.  I'm a freelance Software Engineer and Budding Entrepreneur. Before this, I was pursuing my M.S. in Computer Science at AGC - Pune University, India. I recieved my B.S. in Computer Science from Christ College - Pune University, India and developed my enthusiasm for software engineering during that time.
+    
+   Being fascinated by remarkable software practices and engineering excellence, I always believe in following good coding conventions.
+    
+   Reach me out at mail - singhstuti232@gmail.com or linkedin - @stuti-singh067
   
 
   ## Fun Facts
