@@ -1,12 +1,27 @@
 
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stuti-singh-in&show_icons=true)
-
+<h3 align="left">🔥   Github Stats :</h3>
 ###
+<div align="center">
+<img src="![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stuti-singh-in&show_icons=true)"/>
+</div>
+###
+
+##  Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stuti-singh-in&theme=blue-green)
 
-###
+## Contributors Badge
+![GitHub Contributors Image](https://contrib.rocks/image?repo=stuti-singh-in/Vedic)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+##  Profile View Counter
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=stuti-singh-in)
+
+### Repository View Counter - HITS
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/stuti-singh-in)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stuti-singh067/" target="_blank">
@@ -67,12 +82,3 @@ India
 - Tinkered new formula for reasonable trial numbers with senior engineers and reported the process in daily standup.
 ###
 
-<h3 align="left">🔥   Github Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aastha9199&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
