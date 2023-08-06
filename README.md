@@ -1,6 +1,7 @@
 
   ![image](https://github.com/stuti-singh-in/stuti-singh-in/assets/121602275/1181f2e3-72c6-4ab2-9e53-16510af1979a)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stuti-singh-in_GitHub_Username&show_icons=true)
 
 
 ###
@@ -26,12 +27,11 @@
 
 
 ### About Me
-<details>
+
   <summary> Bio </summary>
     <p align="left"> Hi, I'm Stuti and I grew up travelling places - India, UK, France and Scotland.  I,m a freelance Software Engineer and Budding Entrepreneur. Before this, I was pursuing my M.S. in Computer Science at AGC - Pune University, India. I recieved my B.S. in Computer Science from Christ College - Pune University, India and developed my enthusiasm for software engineering during that time <br><br>🌱 Being fascinated by remarkable software practices and engineering excellence, I always believe in following good coding conventions.</p>
   
-</details>
-<details>
+
   <summary>Fun Facts</summary>
 
 - Daal Baati and Dum Aloo Biryani is my first meal in the India.
@@ -39,15 +39,12 @@
 - C++ is my favorite language though it has many caveats.
 - I know a little Japanese.
 - I read a lot.
-</details>
-<details>
+
 <summary>Keywords</summary>
 
 Coding, Traveling, Workout, Swimming, Walking, Foodie, Reading, Spring, Snow.
 
-</details>
 
-<details>
 <summary> Freelance Software Engineer</summary>
 
 March 2022 - June 2022
@@ -57,19 +54,16 @@ Remote, India
 - Sped up the messaging experience in fetching feed and syncing feed by parallelization for 20% through A/B study.
 - Implemented GoogleTest to cover 99% of the business logic in both unit testing and integration testing.
 
-</details>
 
-<details>
 <summary>Software Engineer Intern</summary>
 
 May 2023 - August 2023
-New York, NY
+India
 
 - Established GraphQL APIs by Hack and created Python scripts that call the APIs to onboard Jest tests, allowing iOS and Android developers to have a uniform script to onboard newly written Jest tests.
 - Recommended trial numbers to lower the standard deviation of metric values by over 25% for three Jest tests.
 - Tinkered new formula for reasonable trial numbers with senior engineers and reported the process in daily standup.
 
-</details>
 
 
 ###
