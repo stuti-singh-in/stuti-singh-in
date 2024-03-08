@@ -24,24 +24,35 @@
 
 
 ## Bio 
-Hi, I'm Stuti and I grew up travelling places - India, UK, France and Scotland.  I'm a freelance Software Engineer and Budding Entrepreneur. Before this, I was pursuing my M.S. in Computer Science at AGC - Pune University, India. I recieved my B.S. in Computer Science from Christ College - Pune University, India and developed my enthusiasm for software engineering during that time.
-    
-   Being fascinated by remarkable software practices and engineering excellence, I always believe in following good coding conventions.
-    
-   Reach me out at mail - singhstuti232@gmail.com or linkedin - @stuti-singh067
-  
+👋 Hello, I'm Stuti Singh, a passionate Software Engineer with a background in Computer Science. Currently working on refining the art of code at Shridhar Co.  Previously, I earned my M.S. in Computer Science from AGC - Pune University, India, and my B.S. in Computer Science from Christ College - Pune University, India.
+💻 My journey into the world of software engineering began during my undergraduate years, where I discovered my enthusiasm for creating efficient and elegant solutions. Now, as a Software Engineer, I strive for engineering excellence and adhere to robust coding conventions to build remarkable software practices.
 
-  ## Fun Facts
+🚀 Always up for a coding challenge and dedicated to continuous learning, I believe in the power of collaboration and the impact of well-structured code. Let's connect and share our love for innovation and technology.  
 
-- Daal Baati and Dum Aloo Biryani was my first meal in  India.
-- C - my first programming language 
-- C++ - my favorite language though it has many caveats.
-- I like to use Japanese vocab here and there.
-- I read a lot.(I mean it :p)
+### 🔍 Key Skills
 
-## Keywords
+- **Languages:** Java, C++, Scala, Python, SQL
+- **Web Development:** HTML, CSS, JavaScript, Node.js
+- **Mobile Development:** Android
+- **Cloud Technologies:** AWS, Azure, GCP
 
-Coding, Traveling, Workout, Swimming, Walking, Foodie, Reading, Spring, Snow.
+### 🚀 What You'll Find Here
+
+- **Projects Galore:** Explore my coding adventures in Java, C++, web development, Android, and more.
+- **Learning Scala:** Currently diving into the world of Scala and functional programming.
+- **Cloud Dreams:** Dreaming big in the cloud space.
+
+### 🌱 Aspirations
+
+- **Full Stack Dreams:** Aspiring to become a full-stack developer, blending frontend and backend magic.
+- **Open Source Explorer:** Keen to contribute to open source projects and collaborate with the tech community.
+- **Continuous Learning:** Embracing the journey of lifelong learning in the ever-evolving tech landscape.
+
+### 📚 Let's Connect
+ [Email] singhstuti232@gmail.com || stuti.singh572@gmail.com
+- [LinkedIn][ @stuti-singh](https://www.linkedin.com/in/stuti-singh-in/)
+
+
 
 
 
